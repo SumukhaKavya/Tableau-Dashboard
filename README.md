@@ -13,6 +13,8 @@ The data used for this analysis is provided by Zomato and includes information o
 
 The analysis is presented in a Tableau dashboard, which allows for easy visualization and exploration of the data.
 
+[Tableau Public Dashboard Link](https://public.tableau.com/views/Book2_16827493646320/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 ## Features
 
 The dashboard has the following features:
